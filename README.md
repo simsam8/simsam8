@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats-rho-six-37.vercel.app/api/top-langs/?username=simsam8&layout=compact&hide=jupyter-notebook)
+![Top Langs](https://github-readme-stats-rho-six-37.vercel.app/api/top-langs/?username=simsam8&layout=compact&hide=jupyter)
