@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats-rho-six-37.vercel.app/api/top-langs/?username=simsam8&layout=compact&hide=jupyter%20notebook)
+![Simon's GitHub stats](https://github-readme-stats-rho-six-37.vercel.app/api?username=simsam8&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats-rho-six-37.vercel.app/api/top-langs/?username=simsam8&layout=compact&hide=jupyter%20notebook&theme=transparent)
