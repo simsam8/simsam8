@@ -1,4 +1,4 @@
-## Hi there 👋
+## Simon Vedaa
 
 <!--
 **simsam8/simsam8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Simon's GitHub stats](https://github-readme-stats-rho-six-37.vercel.app/api?username=simsam8&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats-rho-six-37.vercel.app/api/top-langs/?username=simsam8&layout=compact&hide=jupyter%20notebook&theme=transparent)
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats-rho-six-37.vercel.app/api?username=simsam8&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true"/>
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats-rho-six-37.vercel.app/api/top-langs/?username=simsam8&layout=compact&hide=jupyter%20notebook&theme=transparent&langs_count=20&size_weight=0.5&count_weight=0.5"/>
+</a>
